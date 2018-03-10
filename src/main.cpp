@@ -27,6 +27,10 @@
 int main(void){
 
 	std::cout << "Hello World!" << std::endl;
+	std::cout << "Hello Earth!" << std::endl;
+	std::cout << "Hello Baby~!" << std::endl;
+	std::cout << "Hello Boys~!" << std::endl;
+	std::cout << "Hello Trees!" << std::endl;
 
 	return 0;
 }
